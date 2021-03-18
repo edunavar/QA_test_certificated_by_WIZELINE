@@ -1,0 +1,11 @@
+{
+  "name": "assessment_1qa",
+  "version": "1.0.0",
+  "description": "This is the first challenges for the certificated",
+  "main": "index.js",
+  "scripts": {
+    "testAll": "testcafe chrome ./page_model/test" 
+  },
+  "author": "Eduardo Navarro Torres",
+  "license": "ISC"
+}
